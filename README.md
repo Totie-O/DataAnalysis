@@ -1,0 +1,2 @@
+这是我读《对比Excel,轻松学习Python数据分析》的笔记
+Excel数据表格放在datapool里面，Excel表格绝大多数都是在当前目录下引用
